@@ -38,6 +38,7 @@
 ---
 
 ## 📈 Output Graph
+
 ![Unemployment Plot](unemployment_rate_plot.png)
 
 ---
