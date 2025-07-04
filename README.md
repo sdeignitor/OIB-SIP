@@ -37,6 +37,11 @@
 
 ---
 
+## 📈 Output Graph
+![Unemployment Plot](unemployment_rate_plot.png)
+
+---
+
 ##  Output
 > Visualizations created using Matplotlib & Seaborn show unemployment rate variations across time and regions.
 
