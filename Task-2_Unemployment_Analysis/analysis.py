@@ -23,6 +23,7 @@ plt.legend(loc='upper right', title='Region', bbox_to_anchor=(1.15, 1))
 plt.xticks(rotation=45)
 plt.tight_layout()
 plt.grid(True)
+plt.savefig("unemployment_rate_plot.png")
 plt.show()
 
-plt.savefig("unemployment_rate_plot.png")
+
