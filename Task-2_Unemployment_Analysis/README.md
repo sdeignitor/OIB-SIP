@@ -47,6 +47,13 @@ This project aims to analyze and visualize unemployment trends across different 
 
 ---
 
+### 🔹 Unemployment Trends – Top 5 Regions
+
+![Top 5 Plot](top5_unemployment_trend.png)
+
+---
+
+
 ## 📌 Conclusion
 
 The unemployment rate in India spiked significantly during the early months of the COVID-19 pandemic in 2020. This analysis shows that the rate varied by region and fluctuated over time, with some areas being more severely affected than others.
