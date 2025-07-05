@@ -56,8 +56,8 @@ The internship provided hands-on experience with real-world datasets and helped 
 
 I'm open to collaborations, suggestions, and opportunities in data science!
 
-- 💼 https://www.linkedin.com/in/aryan-pathak-0b8444278/
-- 📧 Email:aryanp1701@gmail.com
+- 💼 Linkedin : https://www.linkedin.com/in/aryan-pathak-0b8444278/
+- 📧 Email : aryanp1701@gmail.com
 
 
 ---
