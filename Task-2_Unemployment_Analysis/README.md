@@ -1,53 +1,59 @@
-#  Unemployment Analysis in India
+# 📊 Task 01 – Unemployment Analysis
 
->**Internship Task - Oasis Infobyte**  
-> Task: Analyze unemployment trends using Python and visualize data
+This is the first task of the Data Science Internship at **Oasis Infobyte**.
+
+## 📌 Problem Statement
+
+Unemployment is measured by the unemployment rate, which is the number of people who are unemployed as a percentage of the total labor force. During the COVID-19 pandemic, the unemployment rate in India saw a sharp increase.
+
+This project aims to analyze and visualize unemployment trends across different regions of India using Python and real-world data.
 
 ---
 
-##  Dataset Used
-- **Dataset Name:** Unemployment in India
+## 📁 Dataset Used
+
+- **Name:** Unemployment in India
 - **Source:** [Kaggle - Unemployment in India](https://www.kaggle.com/datasets/gokulrajkmv/unemployment-in-india)
-- **Files:**
-  - `Unemployment in India.csv`
-  - `Unemployment_Rate_upto_11_2020.csv`
+- **File:** `Unemployment_Rate_upto_11_2020.csv`
 
 ---
 
-##  Technologies Used
-- Python 
+## 🔧 Technologies Used
+
+- Python 3
 - Pandas
 - Matplotlib
 - Seaborn
-- VS Code
+- Jupyter Notebook / VS Code
 
 ---
 
-##  What I Did
-- Loaded the dataset using Pandas
-- Cleaned and explored the data
-- Created line plots to visualize unemployment rate trends across Indian states
+## 📈 What I Did
+
+- Loaded and explored the unemployment dataset
+- Converted date column to proper datetime format
+- Cleaned column names
+- Plotted:
+  - Line chart showing unemployment trends by region over time
+  - Bar chart showing average unemployment rate by region
 
 ---
 
-##  Files in This Repository
-- `analysis.py` → Python code for analysis
-- `README.md` → You're reading it
-- `*.csv` files → Dataset
+## 📊 Output Graphs
+
+### 🔹 Unemployment Trend Over Time
+
+![Trend Graph](unemployment_rate_plot.png)
 
 ---
 
-## 📈 Output Graph
+## 📌 Conclusion
 
-![Unemployment Plot](unemployment_rate_plot.png)
-
----
-
-##  Output
-> Visualizations created using Matplotlib & Seaborn show unemployment rate variations across time and regions.
+The unemployment rate in India spiked significantly during the early months of the COVID-19 pandemic in 2020. This analysis shows that the rate varied by region and fluctuated over time, with some areas being more severely affected than others.
 
 ---
 
-##  Submitted By:
+## 👨‍💻 Submitted By
+
 **Aryan Pathak**  
-Intern @ Oasis Infobyte
+Data Science Intern – Oasis Infobyte  
