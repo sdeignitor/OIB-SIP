@@ -21,7 +21,7 @@ The internship provided hands-on experience with real-world datasets and helped 
 | Task 1   | **Iris Flower Classification**        | Classification model to predict iris species using ML |
 | Task 2   | **Unemployment Analysis**             | Exploratory data analysis on unemployment trends in India |
 | Task 3   | **Car Price Prediction**              | Regression model to predict car prices based on features |
-| Task 4   | **Image to Pencil Sketch**            | Image processing project using OpenCV to convert images to pencil sketches |
+| Task 4   | **EmailSpamDetection**                | Spam detection model |
 | Task 5   | **Sales Prediction Using Python**     | Sales data analysis and forecasting using regression models |
 
 > Each task has its own folder with:
